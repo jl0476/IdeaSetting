@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="jar_new" type="ARCHIVE" />
+      <mapping ext="jar_old" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
