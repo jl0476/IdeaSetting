@@ -4,7 +4,7 @@
     <property name="created">2017-04-24T22:57:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-04-24T22:58:09</property>
+    <property name="modified">2017-04-24T23:22:24</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -1297,6 +1297,16 @@
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="8b8e8e" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="397a00" />
       </value>
     </option>
     <option name="REGEXP.BRACES">
