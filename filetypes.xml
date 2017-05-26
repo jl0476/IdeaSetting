@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="jar_new" type="ARCHIVE" />
       <mapping ext="jar_old" type="ARCHIVE" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
