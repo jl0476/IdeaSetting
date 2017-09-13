@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="3rdlib">
+      <CLASSES>
+        <root url="file://F:/WorkSpaceCollection/zznode/lib/3rdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://F:/WorkSpaceCollection/zznode/lib/3rdlib" />
+      </SOURCES>
+      <jarDirectory url="file://F:/WorkSpaceCollection/zznode/lib/3rdlib" recursive="false" />
+      <jarDirectory url="file://F:/WorkSpaceCollection/zznode/lib/3rdlib" recursive="false" type="SOURCES" />
+    </library>
+    <library name="e2elib">
+      <CLASSES>
+        <root url="file://F:/WorkSpaceCollection/zznode/lib/e2elib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://F:/WorkSpaceCollection/zznode/lib/e2elib" recursive="false" />
+    </library>
+  </component>
+</application>
